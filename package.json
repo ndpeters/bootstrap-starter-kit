@@ -1,0 +1,27 @@
+{
+  "name": "bootstrapbasics",
+  "version": "1.0.0",
+  "description": "basic static site framework built on bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ndpeters/bootstrap-starter-kit.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "kit",
+    "framework"
+  ],
+  "author": "Nicholas Peters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ndpeters/bootstrap-starter-kit/issues"
+  },
+  "homepage": "https://github.com/ndpeters/bootstrap-starter-kit#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
